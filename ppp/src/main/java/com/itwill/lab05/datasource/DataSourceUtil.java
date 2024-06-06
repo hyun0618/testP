@@ -16,7 +16,7 @@ public class DataSourceUtil {
         
         // 커넥션 풀(데이터소스) 환경 설정.
         config.setDriverClassName("oracle.jdbc.OracleDriver");
-        config.setJdbcUrl("jdbc:oracle:thin:@localhost:1521:xe");
+        config.setJdbcUrl("jdbc:oracle:thin:@localhost:1521:orcl");
         config.setUsername("jspstudy");
         config.setPassword("jspstudy");
         
