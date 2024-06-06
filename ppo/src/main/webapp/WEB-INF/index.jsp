@@ -11,12 +11,8 @@
     <header>
         <h1>Contents</h1>
         <h2><%= LocalDateTime.now() %></h2>
-        <h3>Hello, ${ nickname }!</h3>
+        <h3>Hello!</h3>
     </header>
     
-    <main>
-       
-      
-    </main>
 </body>
 </html>
