@@ -5,7 +5,7 @@
 <html>
 <head>
     <meta charset="UTF-8" />
-    <title>Lab 4</title>
+    <title>test</title>
 </head>
 <body>
     <header>
@@ -28,8 +28,8 @@
         <h6>나 오늘 점심 쌈밥먹었어!</h6>
         <h2>깔깔깔깔</h2>
         
-        <h2>dd</h2>
-        <h1>ok</h1>
+        <h2>다들 월요일에 만나</h2>
+        <h1>♥</h1>
         
     </header>
   
